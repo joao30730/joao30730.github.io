@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:7F466684-8267-40F4-AA8C-D7FB9A3BB6C9</id>
  <title>Page list Atom feed</title>
- <updated>2024-01-15T20:42:00+04:00</updated>
+ <updated>2024-01-15T21:13:13+04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">24C25974-EDBC-4380-B468-9D1CC763C982</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2024-01-15T20:42:00.001+04:00</updated>
+  <updated>2024-01-15T21:13:13.001+04:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">5905C9A3-FC2C-4A1F-910E-81A219A3BF13</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2024-01-15T20:42:00.002+04:00</updated>
+  <updated>2024-01-15T21:13:13.002+04:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Projects</title>
   <in-navbar xmlns="urn:iweb:">5E2F505C-489E-4E0E-A55E-E8677C799DC2</in-navbar>
   <link rel="alternate" href="Projects.html"/>
-  <updated>2024-01-15T20:42:00.003+04:00</updated>
+  <updated>2024-01-15T21:13:13.003+04:00</updated>
   <content>Projects</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Supervision</title>
   <in-navbar xmlns="urn:iweb:">4A4A3EAF-B881-449F-8B46-02871486365F</in-navbar>
   <link rel="alternate" href="Supervision.html"/>
-  <updated>2024-01-15T20:42:00.004+04:00</updated>
+  <updated>2024-01-15T21:13:13.004+04:00</updated>
   <content>Supervision</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Activities</title>
   <in-navbar xmlns="urn:iweb:">3AB55D46-94CD-4BED-978B-05EA6FD0E2B5</in-navbar>
   <link rel="alternate" href="Activities.html"/>
-  <updated>2024-01-15T20:42:00.005+04:00</updated>
+  <updated>2024-01-15T21:13:13.005+04:00</updated>
   <content>Activities</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">Juries</title>
   <in-navbar xmlns="urn:iweb:">FF045050-AA1E-4A18-807D-2E1A7A3A5F45</in-navbar>
   <link rel="alternate" href="Juries.html"/>
-  <updated>2024-01-15T20:42:00.006+04:00</updated>
+  <updated>2024-01-15T21:13:13.006+04:00</updated>
   <content>Juries</content>
  </entry>
  <entry>
@@ -68,16 +68,7 @@
   <title xmlns="urn:iweb:">Awards</title>
   <in-navbar xmlns="urn:iweb:">F67A2A07-1194-4520-8D14-F329BEA4CB64</in-navbar>
   <link rel="alternate" href="Awards.html"/>
-  <updated>2024-01-15T20:42:00.007+04:00</updated>
+  <updated>2024-01-15T21:13:13.007+04:00</updated>
   <content>Awards</content>
- </entry>
- <entry>
-  <id>urn:iweb:0455819C-18F0-4845-9BA0-FA58A8EA6FCE</id>
-  <title>Openings</title>
-  <title xmlns="urn:iweb:">Openings</title>
-  <in-navbar xmlns="urn:iweb:">0455819C-18F0-4845-9BA0-FA58A8EA6FCE</in-navbar>
-  <link rel="alternate" href="Openings.html"/>
-  <updated>2024-01-15T20:42:00.008+04:00</updated>
-  <content>Openings</content>
  </entry>
 </feed>
