@@ -1,9 +1,9 @@
-// Created by iWeb 3.0.4 local-build-20240115
+// Created by iWeb 3.0.4 local-build-20240312
 
 setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {loadMozillaCSS('Awards_files/AwardsMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');Widget.onload();performPostEffectsFixups()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
